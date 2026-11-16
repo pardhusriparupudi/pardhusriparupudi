@@ -1,13 +1,22 @@
 
 <h1 align="center">Hey, Dev! 👋</h1>
 
+<h2 align="center">I'm Pardhu Sri Parupudi</h2>
+
 <p align="center">
-  Learning AI/ML · Exploring Technology · Building as I Learn
+   Learning AI/ML · Exploring Tech · Building as I Learn
 </p>
 
 <p align="center">
-  <i>Curious mind. Practical builder. Always learning.</i>
+  Passionate about exploring Artificial Intelligence, solving problems through code, and turning ideas into practical projects.
 </p>
+
+<p align="center">
+  Currently learning, experimenting with new technologies,
+  strengthening my problem-solving skills, and exploring open-source contributions.
+</p>
+
+<h3 align="center">Connect & Explore</h3>
 
 <p align="center">
   <a href="https://github.com/pardhusriparupudi">
@@ -21,18 +30,6 @@
   </a>
 </p>
 
----
-
-## About Me
-
-Hey! I'm **Pardhu Sri Parupudi**, a Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning.
-
-- 🤖 Exploring AI, Machine Learning and emerging technologies.
-- 💻 Practicing Data Structures & Algorithms.
-- 🌱 Learning through hands-on projects and open-source contributions.
-- 🔍 Curious about how things work and always eager to experiment.
-
----
 
 ## Tech Stack
 
@@ -60,7 +57,3 @@ Hey! I'm **Pardhu Sri Parupudi**, a Computer Science undergraduate specializing 
 </p>
 
 ---
-
-<p align="center">
-  <i>Always learning. Always exploring. ✨</i>
-</p>
