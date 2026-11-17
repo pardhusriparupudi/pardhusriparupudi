@@ -4,7 +4,7 @@
 <h2 align="center">I'm Pardhu Sri Parupudi</h2>
 
 <p align="center">
-   Learning AI/ML · Exploring Tech · Building as I Learn
+  Learning AI/ML · Exploring Tech · Building as I Learn
 </p>
 
 <p align="center">
@@ -12,8 +12,7 @@
 </p>
 
 <p align="center">
-  Currently learning, experimenting with new technologies,
-  strengthening my problem-solving skills, and exploring open-source contributions.
+  Currently learning, experimenting with new technologies, strengthening my problem-solving skills, and exploring open-source contributions.
 </p>
 
 <h3 align="center">Connect & Explore</h3>
@@ -30,17 +29,25 @@
   </a>
 </p>
 
+---
 
 ## Tech Stack
 
+### Languages & Technologies
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,tailwind,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,tailwind,firebase,git,github,vscode" />
 </p>
+
+### Python & AI/ML Libraries
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=flat" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
 </p>
 
 ---
@@ -48,12 +55,12 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub Statistics" />
-  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
+  <img height="110" src="./profile/stats.svg" alt="GitHub Statistics" />
+  <img height="110" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pardhusriparupudi&theme=default&hide_border=false&background=FFFFFF&border=2EA043&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=777777&dates=777777" alt="GitHub Streak" />
+  <img height="85" src="https://streak-stats.demolab.com/?user=pardhusriparupudi&theme=default&hide_border=false&background=FFFFFF&border=2EA043&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=777777&dates=777777" alt="GitHub Streak" />
 </p>
 
 ---
