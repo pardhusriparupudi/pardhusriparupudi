@@ -34,15 +34,6 @@
 
 ---
 
-## Currently Working On
-
-- Exploring Machine Learning and AI concepts.
-- Strengthening Data Structures & Algorithms through problem-solving.
-- Contributing to open-source projects and preparing for GSoC 2027.
-- Building and improving projects using Python, Java, and React.
-- Learning by building, experimenting, and collaborating.
-
-
 ## Tech Stack
 
 ### Languages & Technologies
